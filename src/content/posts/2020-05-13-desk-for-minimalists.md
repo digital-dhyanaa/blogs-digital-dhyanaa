@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Desk for minimalists Abc test
+title: Desk for minimalists Abc test 123
 slug: /minimalists-desk
 date: 2020-05-13 12:46
 description: sdasd
