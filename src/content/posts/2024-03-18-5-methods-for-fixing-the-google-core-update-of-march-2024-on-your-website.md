@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: 5 Methods for Fixing the Google Core Update of March 2024 on Your Website
-slug: "5 Methods for Fixing the Google Core Update of March 2024 "
+slug: /methods-for-fixing-google-core-update
 date: 2024-03-18 19:29
 description: Methods for Fixing the Google Core Update of March 2024 on Your Website
 featuredImage: /assets/methods-for-fixing-the-google-core-update-of-march-2024-on-your-website-.png
