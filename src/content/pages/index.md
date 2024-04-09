@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Digital Dhyanaa
 tagline: SEO Agency
-featuredImage: /assets/logo-2-.png
+featuredImage: /assets/logo.png
 cta:
   ctaText: Know more
   ctaLink: /about
