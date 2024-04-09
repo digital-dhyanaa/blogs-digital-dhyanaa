@@ -2,8 +2,8 @@
   "meta": {
     "title": "Blogs",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://www.digitaldhyanaa.com",
+    "description": "",
+    "siteUrl": "https://blogs.digitaldhyanaa.com",
     "image": "/assets/favicon.png",
     "iconimage": "/assets/favicon.png",
     "twitterUsername": "@DDhyanaa81211"
