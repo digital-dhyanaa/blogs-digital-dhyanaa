@@ -3,11 +3,7 @@ template: about-page
 slug: /about
 title: About Digital Dhyanaa
 ---
-
-
-Digital Dhyanaa is a Vadodara-based digital marketing company that has been serving customers since 2019. It specializes in increasing brand visibility through a comprehensive suite of digital marketing and SEO services[](https://www.digitaldhyanaa.com/). The company is renowned for its expertise in social media and search engine marketing, delivering successful services across India with optimal results[](https://www.digitaldhyanaa.com/services.php).
-
-
+Digital Dhyanaa is a Vadodara-based digital marketing company that has been serving customers since 2022. It specializes in increasing brand visibility through a comprehensive suite of digital marketing and SEO services[](https://www.digitaldhyanaa.com/). The company is renowned for its expertise in social media and search engine marketing, delivering successful services across India with optimal results[](https://www.digitaldhyanaa.com/services.php).
 
 ![Digital Dhyanaa](/assets/logo-2.jpg "SEO and Digital Marketing")
 
